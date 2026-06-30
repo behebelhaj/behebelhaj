@@ -1,16 +1,33 @@
-## Hi there 👋
+Hey, I'm [behe belhaj] 👋
 
-<!--
-**behebelhaj/behebelhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatique de Gestion student in Tunisia, building toward a career in **Data Analytics & Data Science** in the banking and finance sector.
 
-Here are some ideas to get you started:
+🔭 Currently learning: **SQL · Python · Pandas · Statistics**
+🎯 Goal: Remote Data Analyst role → Master's in France → JPMorgan / European banking sector
+🌱 Documenting my journey from zero to data scientist, one commit at a time
+💬 Open to connecting with anyone in data, finance, or banking
+🌍 Based in Tunisia · Fluent in Arabic, French, English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ 🛠️ Tools I'm building with
+
+`Python` `SQL` `Pandas` `Excel` `Power BI` *(coming soon)*
+
+---
+
+📌 Featured projects
+
+- 🏦 **Bank Account System** — Python program simulating deposits, withdrawals, transfers
+- 📊 **Bank Data Analyzer** — Pandas-based analysis of transaction data
+- *(more projects added weekly)*
+
+---
+
+📈 What I'm working on this month
+
+Finishing SQL fundamentals and starting my first real banking dataset project (credit scoring).
+
+---
+
+📫 Reach me on [LinkedIn]()
