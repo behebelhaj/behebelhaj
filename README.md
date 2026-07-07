@@ -1,33 +1,29 @@
-Hey, I'm [behe belhaj] 👋
+# Pharmaceutical Sales Analysis 💊
 
-🎓 Informatique de Gestion student in Tunisia, building toward a career in **Data Analytics & Data Science** in the banking and finance sector.
+## About this project
+Analysis of pharmaceutical sales data using Python and Pandas.
+This is my first data analysis project as part of my journey 
+toward becoming a Data Scientist in banking and finance.
 
-🔭 Currently learning: **SQL · Python · Pandas · Statistics**
-🎯 Goal: Remote Data Analyst role → Master's in France → JPMorgan / European banking sector
-🌱 Documenting my journey from zero to data scientist, one commit at a time
-💬 Open to connecting with anyone in data, finance, or banking
-🌍 Based in Tunisia · Fluent in Arabic, French, English
+## Questions answered
+1. Total sales quantities for each drug category
+2. Highest selling drug brands
+3. Top 3 drugs in January 2015, July 2016, September 2017
+4. Most sold drug in 2017
+5. Highest average daily sales by drug category
+6. Seasonal patterns for respiratory drugs (R03)
 
----
+## Key findings
+- N02BE (Paracetamol) dominates all sales metrics
+- R03 (Respiratory drugs) peak in December — winter season
+- N05C (Sleeping pills) has the lowest sales overall
 
- 🛠️ Tools I'm building with
+## Tools used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
 
-`Python` `SQL` `Pandas` `Excel` `Power BI` *(coming soon)*
-
----
-
-📌 Featured projects
-
-- 🏦 **Bank Account System** — Python program simulating deposits, withdrawals, transfers
-- 📊 **Bank Data Analyzer** — Pandas-based analysis of transaction data
-- *(more projects added weekly)*
-
----
-
-📈 What I'm working on this month
-
-Finishing SQL fundamentals and starting my first real banking dataset project (credit scoring).
-
----
-
-📫 Reach me on [LinkedIn]()
+## Author
+[behe belha] — Informatique de Gestion Student
+Building toward a Data Science career in banking and finance
