@@ -25,5 +25,5 @@ toward becoming a Data Scientist in banking and finance.
 - Google Colab
 
 ## Author
-[behe belha] — Informatique de Gestion Student
+[behe belhaj] — Informatique de Gestion Student
 Building toward a Data Science career in banking and finance
