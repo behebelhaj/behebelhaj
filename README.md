@@ -1,38 +1,38 @@
-# Employee Data Cleaning 🧹
+# Vehicle Sales Time Series Analysis 📈
 
 ## About
-Real-world messy HR employee dataset cleaned using Python and Pandas.
-This project simulates the kind of data cleaning tasks performed daily
-by data analysts in banking and finance environments.
+Time series analysis of US Light Vehicle Sales data from FRED 
+(Federal Reserve Economic Data) using Python and Pandas.
+This project focuses on understanding time series data structures
+and the Pandas tools that come with them.
 
-## Problems found in the original data
-- ❌ Negative phone numbers (impossible in real life)
-- ❌ Department and Region mixed in one column
-- ❌ Join Date stored as text not as a real date
-- ❌ 211 missing Age values
-- ❌ 24 missing Salary values
+## What I practiced
+- Converting dates with `pd.to_datetime()`
+- Setting datetime index with `set_index()`
+- Resampling data by year with `resample()`
+- Building rolling averages with `rolling().mean()`
+- Time series visualization with Matplotlib
 
-## What I did to fix it
-- ✅ Converted negative phone numbers to positive using abs()
-- ✅ Split Department_Region into two clean columns
-- ✅ Converted Join_Date to proper datetime format
-- ✅ Filled missing Age and Salary with median values
-- ✅ Exported clean dataset to new CSV
+## Key Findings
+- Clear recession impacts visible in 50 years of data
+- 1980-1982 recession caused 25% drop in vehicle sales
+- 2008 Financial Crisis = biggest drop in entire dataset
+- 2020 COVID-19 caused sharp sudden drop then recovery
+- 12-month rolling average reveals true market direction
 
-## Key findings
-- Sales department has the highest average salary
-- Good performers earn slightly more than Excellent performers
-- Interesting compensation structure worth investigating
-
-## Files
-- `Messy_Employee_dataset.csv` — original messy data
-- `employees_cleaned.csv` — cleaned version
-- Notebook — full cleaning process step by step
+## Why this matters in banking
+Vehicle sales is a key economic indicator. Banks like JPMorgan
+use this kind of data to make decisions about loans,
+risk management, and economic forecasting.
 
 ## Technologies
 - Python
 - Pandas
+- Matplotlib
 - Google Colab
+
+## Data Source
+FRED - Federal Reserve Economic Data
 
 ## Author
 [behe belhaj] — Informatique de Gestion Student
