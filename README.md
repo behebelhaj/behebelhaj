@@ -1,39 +1,59 @@
-# Vehicle Sales Time Series Analysis 📈
+# Hey, I'm [behe belhaj] 👋
 
-## About
-Time series analysis of US Light Vehicle Sales data from FRED 
-(Federal Reserve Economic Data) using Python and Pandas.
-This project focuses on understanding time series data structures
-and the Pandas tools that come with them.
+🎓 First-year Informatique de Gestion student in Tunisia  
+🎯 Goal: Data Scientist at an international bank (JPMorgan Paris)  
+🌍 Fluent in Arabic, French and English  
+💡 Passionate about data analytics and its applications in banking and finance  
 
-## What I practiced
-- Converting dates with `pd.to_datetime()`
-- Setting datetime index with `set_index()`
-- Resampling data by year with `resample()`
-- Building rolling averages with `rolling().mean()`
-- Time series visualization with Matplotlib
+---
 
-## Key Findings
-- Clear recession impacts visible in 50 years of data
-- 1980-1982 recession caused 25% drop in vehicle sales
-- 2008 Financial Crisis = biggest drop in entire dataset
-- 2020 COVID-19 caused sharp sudden drop then recovery
-- 12-month rolling average reveals true market direction
+## 🚀 What I'm building toward
 
-## Why this matters in banking
-Vehicle sales is a key economic indicator. Banks like JPMorgan
-use this kind of data to make decisions about loans,
-risk management, and economic forecasting.
+I'm on a structured journey to become a Data Scientist in the banking 
+and finance sector. Every project I build is one step closer to working 
+at an international financial institution.
 
-## Technologies
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
+**The roadmap:**
+---
 
-## Data Source
-FRED - Federal Reserve Economic Data
+## 🛠️ Tools I'm working with
 
-## Author
-[behe belhaj] — Informatique de Gestion Student
-Building toward a Data Science career in banking and finance 🎯
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+---
+
+## 📁 Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [Pharma Sales Analysis](link) | Analyzed drug sales patterns and seasonal trends | Pandas, Matplotlib |
+| [Netflix Data Cleaning](link) | Cleaned messy Netflix dataset — 8807 rows | Pandas |
+| [Titanic Survival Analysis](link) | EDA on survival factors — gender, class, age | Pandas, Matplotlib |
+| [Employee Data Cleaning](link) | Fixed messy HR dataset — phone, dates, missing values | Pandas |
+| [Vehicle Sales Time Series](link) | 50 years of US vehicle sales — recession analysis | Pandas, Matplotlib |
+
+---
+
+## 📈 What I'm learning right now
+
+- 🔥 SQL — SQLZoo
+- 🔥 Python — Codewars daily
+- 🔥 Machine Learning — coming next
+- 🔥 Power BI — coming soon
+
+---
+
+## 🤝 Let's connect
+
+I'm actively connecting with data professionals, analysts and recruiters
+in the European banking sector.
+
+---
+
+> *"The goal is not just to analyze data — it's to make decisions that matter in finance."*
+
+⭐ Feel free to explore my repositories and leave a star if you find something useful!
